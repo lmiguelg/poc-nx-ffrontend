@@ -5,3 +5,7 @@
  * .container {
  * }
 */
+.container {
+  color: '#111';
+  font-weight: bold;
+}
