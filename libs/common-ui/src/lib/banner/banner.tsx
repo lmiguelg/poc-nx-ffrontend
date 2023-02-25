@@ -7,6 +7,7 @@ export function Banner(props: BannerProps) {
   return (
     <div className={styles['container']}>
       <h1>Welcome to Banner!</h1>
+      <p>Banner description</p>
     </div>
   );
 }
